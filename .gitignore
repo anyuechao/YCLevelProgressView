@@ -1,0 +1,7 @@
+YCLevelProgressView.xcodeproj/xcuserdata/
+YCLevelProgressView.xcworkspace/
+Pods/
+*.sup
+Podfile.lock
+.DS_Store
+YCLevelProgressView.xcodeproj/project.xcworkspace/xcuserdata/
